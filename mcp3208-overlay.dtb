@@ -1,5 +1,5 @@
 /*
- * Device tree overlay for Microchip mcp3208 10-Bit A/D Converters
+ * Device tree overlay for Microchip mcp3208 12-Bit A/D Converters
  */
 
 /dts-v1/;
